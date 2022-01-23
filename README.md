@@ -31,8 +31,12 @@ https://github.com/gurdeep7/twitter-backend
 ## Snapshot from the Built Project
 
 > <img src = "images/login.png" style="width:300px" alt = "Login Page" />  &emsp;
-> <ul>> Sign-Up Page: User details stored to localStorage.Concept used JSON.Stringyfy and JSON.parse.
-Sign-In Page: User confirmation to check whether user email and password match with details existing in the database.</ul>
+<ul>
+  <li>Sign-Up Page: User details stored to server by using mongodb.conneting by useing API calls</li>
+  <li>Sign-Up  page: It will checkDeatails of all users and Name will only unic then only it aloow to access to Twitter.</li>
+  <li> Sign-Up  page: Users have to match the passward of two Slots.</li>
+  <li>Sign-Up  page: Mail have to Unic</li>
+</ul>
 > <img src = "images/signup.png" style="width:300px" alt = "Sign Up Page" /> &emsp;
 > <img src = "images/home.png" style="width:300px" alt = "Home Page" />  &emsp;
 > <img src = "images/chat.png" style="width:300px" alt = "Chat Page" /> &emsp;
