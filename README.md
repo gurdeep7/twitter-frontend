@@ -32,7 +32,7 @@ https://github.com/gurdeep7/twitter-backend
  <img src = "images/signup.png" style="width:300px" alt = "Sign Up Page" width = "300"/> &emsp; &emsp;
 <ul>
   <li>Sign-Up Page: User details stored to server by using mongodb.conneting by useing API calls</li>
-  <li>Sign-Up  page: It will checkDeatails of all users and Name will only unic then only it aloow to access to Twitter.</li>
+  <li>Sign-Up  page: It will checkDeatails of all users and Name will only unique then only it aloow to access to Twitter.</li>
   <li> Sign-Up  page: Users have to match the passward of two Slots.</li>
   <li>Sign-Up  page: Mail have to Unic</li>
 </ul>
