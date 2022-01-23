@@ -48,9 +48,14 @@ https://github.com/gurdeep7/twitter-backend
   <ul>
   <li>Home Page: There you can see new feed. Related data like sports and upcoming events and etc.. </li>
   <li>Home Page:By clicking on tweet there user can add images and reaction like emoji. they can tweet what have in mind</li>
+ </ul>
   
  <img src = "images/chat.png" style="width:300px" alt = "Chat Page" /> &emsp;
-  
+    <ul>
+  <li>Chat  Page: Chat page is buld by using websockets </li>
+  <li>Chat Page:It is just like group chat. in there we have to chat all members in group </li>
+ <li>Chat Page: while chating sender name is also there </li>
+ </ul>
   
  <img src = "images/explore.png" style="width:300px" alt = "Explore Page" /> &emsp; 
 
