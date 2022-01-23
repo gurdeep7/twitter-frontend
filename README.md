@@ -30,17 +30,29 @@ https://github.com/gurdeep7/twitter-backend
 
 ## Snapshot from the Built Project
 
-> <img src = "images/signup.png" style="width:300px" alt = "Sign Up Page" width = "300"/> &emsp; &emsp;
+ <img src = "images/signup.png" style="width:300px" alt = "Sign Up Page" width = "300"/> &emsp; &emsp;
 <ul>
   <li>Sign-Up Page: User details stored to server by using mongodb.conneting by useing API calls</li>
   <li>Sign-Up  page: It will checkDeatails of all users and Name will only unic then only it aloow to access to Twitter.</li>
   <li> Sign-Up  page: Users have to match the passward of two Slots.</li>
   <li>Sign-Up  page: Mail have to Unic</li>
 </ul>
-> <img src = "images/login.png" style="width:300px" alt = "Login Page" /> 
-> <img src = "images/home.png" style="width:300px" alt = "Home Page" />  &emsp;
-> <img src = "images/chat.png" style="width:300px" alt = "Chat Page" /> &emsp;
-> <img src = "images/explore.png" style="width:300px" alt = "Explore Page" /> &emsp; 
+
+ <img src = "images/login.png" style="width:300px" alt = "Login Page" /> 
+ <ul>
+  <li>Sign-In Page: It check the email and passworsd.By using email validations and sanitizering password</li>
+  <li>Sign-In  page: If they are correct deatals.Then only allows to user.</li>
+  
+</ul>
+ <img src = "images/home.png" style="width:300px" alt = "Home Page" />  &emsp;
+  <ul>
+  <li>Home Page: There you can see new feed. Related data like sports and upcoming events and etc.. </li>
+  <li>Home Page:By clicking on tweet there user can add images and reaction like emoji. they can tweet what have in mind</li>
+  
+ <img src = "images/chat.png" style="width:300px" alt = "Chat Page" /> &emsp;
+  
+  
+ <img src = "images/explore.png" style="width:300px" alt = "Explore Page" /> &emsp; 
 
 
 
