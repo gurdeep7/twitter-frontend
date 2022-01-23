@@ -19,7 +19,7 @@ https://twitter-cloned12.netlify.app/
 
 ## Technologies Used
 > &ensp; <img src = "https://i.stack.imgur.com/PgcSR.png" width = "100" height = "100" alt = "HTML Logo"> 
-> &ensp <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width = "100" height = "100" alt ="HTML Logo"/>
+> &ensp; <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width = "100" height = "100" alt ="HTML Logo"/>
 > &ensp; <img src = "https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width = "100" height = "100" alt = "Javascript Logo">
 > &ensp; <img src = "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width = "100" height ="100">
 > &ensp; <img src = "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/064fc70f-5df3-4333-b9d4-f6abe2f946de/react-wp-app8.png" width = "100" height ="100">
