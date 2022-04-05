@@ -1,7 +1,7 @@
 
 # UpGrad - Clone
 
->It is a clone of twitter.com. We used HTML, JavaScript, Tailwind CSS, Mongo DB, and Express JS in this Project. We implement features like login, Sign up, Real time chat and posting a tweet.
+>It is a clone of twitter.com. We used HTML, JavaScript, Tailwind CSS, Mongo DB, and Express JS in this Project. We implemented features like login, Sign up, Real time chat and posting a tweet.
 
 
 ## Hosted Platform
